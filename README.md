@@ -1,5 +1,5 @@
 # FlixsterPart1
-Submitted by: **Oluwasubomi Bashorun **
+Submitted by: **Oluwasubomi Bashorun**
 
 **FlixsterPart1** is a movie browsing app that allows users to browse movies currently playing in theaters.
 
